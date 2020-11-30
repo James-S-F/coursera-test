@@ -37,10 +37,6 @@ section div{
 }
 
 
-.navbar-nav li a {
-    text-align:center;
-}
-
 .navbar-nav li:not(:last-of-type) a {
     border-bottom:1px solid #e7e7e7;
 }
