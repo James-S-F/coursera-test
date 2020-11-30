@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top:2rem;
+    margin-bottom:1rem;
+}
+
+.p parag{
+    margin:50px auto 5px auto;
+    padding: 0 15px;
+}
+
+section{
+  width:100%;
+}
+
+section div{
+    margin:20px;
+    background: papayawhip;
+    position: relative;
+    padding:1rem 2rem;
+}
+
+
+.navbar-default .navbar-collapse {
+    border:1px solid #000;
+}
+
+.navbar-nav li a {
+    text-align:center;
+}
+
+.navbar-nav li:not(:last-of-type) a {
+    border-bottom:1px solid #000;
+}
